@@ -1,0 +1,36 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Volume 1",
+            "price": 1299,
+            "imgName": "Volume 1.png"
+        },
+        {
+            "id": 2,
+            "name": "Volume 2",
+            "price": 1299,
+            "imgName": "Volume 2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Volume 3",
+            "price": 1299,
+            "imgName": "Volume 3.jpeg"
+        }
+    ],
+    "merch": [
+        {
+            "id": 4,
+            "name": "Maverick City Breathe Shirt",
+            "price": 1999,
+            "imgName": "Breathe Shirt.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Maverick City Sweatshirt",
+            "price": 1299,
+            "imgName": "Shirt Merch.jpeg"
+        }
+    ]
+}
